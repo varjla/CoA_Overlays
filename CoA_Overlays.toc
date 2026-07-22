@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: CoA Overlays & Button Glow
+## Notes: Sistema de resplandor para habilidades en Conquest of Azeroth.
+## Author: varjla (idea based in other addons in retail, coded with help of AI)
+## Version: 1.1
+
+# Core
+CoA_Overlays.lua
+
+# Classes
+classes\Venomancer.lua
