@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: CoA Overlays & Button Glow
-## Notes: Sistema de resplandor para habilidades en Conquest of Azeroth.
+## Notes: Ability Aura System in Conquest of Azeroth (Ascension).
 ## Author: varjla (idea based in other addons in retail, coded with help of AI)
 ## Version: 1.1
 
